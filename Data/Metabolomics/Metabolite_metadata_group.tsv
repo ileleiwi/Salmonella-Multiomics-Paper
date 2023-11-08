@@ -1,0 +1,343 @@
+Compound	Accepted Annotation	Group	Additional Notes	Compound ID	m/z	Charge	Retention time (min)	Identifications	Anova (p)	Highest Mean	Maximum Abundance
+1.33_515.2932	Taurocholic acid	Bile Acids	"conjugate of cholic acid (bile acid) with taurine, associated with normal microbiota"	HMDB0000036 	515.2932146	1	1.329483333	13	0.029824574	Salmonella	8295784.637
+5.16_104.1075	Prenol	Prenols	It is one of the  simplest terpenoids that is associated with gut inflammation.	HMDB0030124	104.1075334	1	5.157733333	23	3.97E-10	Salmonella	315991322.5
+2.36_184.0645	6-methylmercaptopurine	Other	 	HMDB0060412	184.0645347	1	2.356683333	2	0.462204104	Control	900848.4249
+2.94_810.6036	"PC(18:0/20:4(8Z,11Z,14Z,17Z))"	Phospholipids	"Phosphatidylcholine, Improves intestinal barrier function"	HMDB0008049	810.6035704	1	2.94445	132	2.29E-06	Salmonella	723216.5079
+8.30_148.0432	Methionine sulfoxide	Amino Acids	Used as energy in intestine	"	HMDB0002005"	148.043161	1	8.300333333	6	0.001143763	Salmonella	3243622.375
+0.92_535.2728	Ganoderic acid F	Prenols	 	HMDB0035988	535.2728355	1	0.918133333	15	0.00027908	Control	519141.4075
+1.07_553.3404	Lithocholate 3-O-glucuronide	Bile Acids	presents in bile	HMDB0002513	553.3403808	1	1.06995	6	0.000296864	Control	135608.4316
+0.82_187.0642	Indoleacrylic acid	Tryptophan	"Associated with Tryptophan metabolic pathway. Intestinal microorganisms catabolize tryptophan to indole derivatives which are then absorbed and converted into indoleacrylic acid and its glycine conjugate, indolylacryloylglycine. Stimulating indoleacrylic acid production could promote anti-inflammatory responses"	HMDB0000734 	205.1003492	1	0.817533333	2	0.000104145	Salmonella	546341.3795
+2.94_745.6034	PC(O-20:0/14:1(9Z))	Phospholipids	"Phosphatidylcholine, Improves intestinal barrier function"	HMDB0008263	784.5871046	1	2.94445	21	5.40E-11	Salmonella	1862560.771
+1.26_367.2723	Tetradecadienoylcarnitine	Fatty Acids	long chain fatty acids	HMDB0258882	332.2584137	1	1.255216667	2	2.95E-06	Control	45738.53055
+0.79_295.2281	"gamma-12,13-DiHODE"	Other	HODEs are markers of various human diseases	24701229	295.2281266	1	0.785433333	127	0.000319307	Control	165698.3913
+3.03_758.5727	"PC(16:0/18:2(9Z,12Z))"	Phospholipids	"Phosphatidylcholine, Improves intestinal barrier function"	HMDB0007973	758.5727118	1	3.032733333	148	4.13E-05	Salmonella	3321355.225
+1.19_268.1051	Tryptophan	Tryptophan	Among the metabolites that play an important role within intestinal health (metabolized by trypyophanase to indole) 	HMDB0030396	268.1051478	1	1.190083333	23	0.038629177	Control	109702.3773
+1.03_482.2946	Taurodeoxycholic acid	Bile Acids	Taurine-conjugated bile acid (Normal microbiota is responsible for deconjugation of taurodeoxycholic acid)	HMDB0000896	482.294633	1	1.0296	8	0.002266873	Salmonella	142934.5933
+0.76_411.1935	"5-Methoxy 7,8-diprenylflavone"	Flavonoids	Flavonoid		411.1934897	1	0.7562	16	0.001552119	Salmonella	526671.1213
+1.68_204.0445	N-Nitrosothiazolidine-4-carboxylic acid	Amino Acids	 	HMDB0040192	204.0445451	1	1.675783333	8	0.00696651	Control	48808.86029
+0.95_549.2520	Billirubin	Other	The secreted bilirubin conjugates are deconjugated in the intestine by b-glucuronidases derived from bacteria	HMDB0000054 	549.2520231	1	0.9521	13	0.006389718	Control	76889.81732
+0.76_443.2155	"3alpha-Hydroxy-1,7-dioxo-5beta-cholan-24-oic acid"	Bile Acids	Bile acid that could be affected bu gut microbiota		443.2155129	1	0.7562	29	0.000135692	Salmonella	205209.6518
+0.99_499.2983	Tauroursodeoxycholic acid	Bile Acids	"Tauroursodeoxycholic acid is a conjugated form of bile acid. It has a role as a human metabolite, an anti-inflammatory agent, a neuroprotective agent, an apoptosis inhibitor, a cardioprotective agent and a bone density conservation agent."	HMDB0000874	517.3318636	1	0.9918	7	3.49E-06	Salmonella	744816.4694
+5.12_174.1131	3-hydroxyhexanoic acid	Fatty Acids	hydroxylated fatty acid produced by microbes	HMDB0061652	174.1130638	1	5.117233333	45	5.11E-05	Control	58419.34941
+1.68_834.6116	"1,3,12-Trihydroxycholan-24-oic acid"	Bile Acids	Bile acid that could be affected bu gut microbiota	HMDB0000371	834.6116265	1	1.675783333	101	0.004851191	Salmonella	2141654.617
+0.72_449.2570	17-hydroxyandrostane-3-glucuronide	Other	is a natural human metabolite of 17-hydroxyandrostane generated in the liver by UDP glucuonyltransferase.	"	HMDB0010359"	449.256986	1	0.71895	19	0.153606379	Control	25297.3214
+0.66_450.3357	"3alpha,7alpha,16alpha-Trihydroxy-5beta-cholestan-26-oic acid"	Bile Acids	Bile acid derivatives		473.3263069	1	0.6597	25	0.354685459	Control	127984.1475
+2.99_585.3778	Cholesterol glucuronide	Other	"natural human metabolite of Cholesterol, generated in the liver by UDP glucuonyltransferase"	HMDB0010330	585.377811	1	2.988783333	6	1.63E-06	Salmonella	44353.80539
+4.97_319.1523	N-(1-deoxy-1-fructosyl)proline	Amino Acids	 	HMDB0038493 	319.1523176	1	4.974733333	47	0.000114535	Control	7996.917663
+2.75_251.1776	Androstenedione	Other	is an endogenous weak androgen steroid hormone and intermediate in the biosynthesis of estrone and of testosterone from dehydroepiandrosterone (DHEA)	HMDB0000053	251.1775647	1	2.749066667	49	0.005902315	Control	2476.632636
+1.97_383.3646	"(Z)-1,5-Tridecadiene"	Other	 	HMDB0041081	383.3645809	1	1.97255	42	0.000118955	Salmonella	26713.59473
+0.57_1020.6042	"PE(20:4(5Z,8Z,11Z,14Z)/0:0)"	Phospholipids	"Phosphatidylethanolamine, second most abundant phospholipids in mammalian cells"	74380436	1020.604216	1	0.569766667	11	0.011421503	Salmonella	45909.50015
+3.09_530.3575	PC(10:0/10:0)	Phospholipids	"phosphatidylcholine, Improves intestinal barrier function"		530.3575383	1	3.090533333	19	0.000553584	Salmonella	18022.64365
+1.77_861.6216	N-oleoyl histidine	Amino Acids	 	HMDB0241960	861.6216197	1	1.7669	58	0.001013873	Salmonella	14725.12173
+0.82_811.4870	"PG(18:0/18:3(9Z,12Z,15Z))"	Phospholipids	 	HMDB0034625 	811.4870111	1	0.817533333	40	5.50E-06	Control	134066.6372
+5.76_458.3489	O-(17-carboxyheptadecanoyl)carnitine	Fatty Acids	involved in Carnitine metabolic pathway and enery production	HMDB0240777	458.3489174	1	5.758183333	2	0.002147795	Control	64812.3273
+3.30_320.1729	Tyrosyl-Arginine	Amino Acids	dipeptide	HMDB0028721 	320.1728995	1	3.3037	10	0.004464855	Control	22045.51675
+3.49_514.3609	PC(20:1(11Z)/20:0)	Phospholipids	"phosphatidylcholine, Improves intestinal barrier function"	HMDB0008307	514.3608694	1	3.491516667	8	0.012343031	Salmonella	8995.014327
+2.32_479.3222	PE(P-16:0/0:0)	Phospholipids	"Phosphatidylethanolamine, second most abundant phospholipids in mammalian cells"		479.3221545	1	2.316716667	3	0.035306576	Salmonella	4243.630799
+3.71_599.3175	1-Oleoylglycerophosphoinositol	Phospholipids	endogenous metabolite	HMDB0010036 	599.3174605	1	3.706366667	18	0.091250288	Salmonella	3961.957439
+2.27_201.1715	2-Hexenoylcholine	Other	 	HMDB0013162	201.1715273	1	2.273616667	2	0.023238902	Control	2306.115119
+5.28_273.1929	Gamma-Aminobutyryl-lysine	Amino Acids	Hybrid peptides	HMDB0001959	273.1928701	1	5.283233333	4	0.033547663	Control	3652.287656
+2.50_753.4200	"2,3-di-0-hexanoyl-glucopyranose"	Other	 		753.4200136	1	2.502866667	9	0.060778002	Salmonella	5021.428223
+4.93_237.1599	Cis-3-Hexenyl 2-aminobenzoate	Other	 	HMDB0037694	237.1599129	1	4.926433333	24	7.36E-12	Control	738763.0594
+3.88_545.3042	Hydroxyisovaleroyl carnitine	Fatty Acids	Fatty acid lipid molecule	HMDB0062555	545.3041549	1	3.88255	8	0	Control	107138.7932
+6.43_642.3207	Balanitesin	Other	Diet-drived metabolite	HMDB0032818	642.3206806	2	6.4343	2	2.18E-09	Control	151202.5111
+5.77_722.4845	"PA(20:5(5Z,8Z,11Z,14Z,17Z)/18:0)"	Phospholipids	"Phosphatidic acid, inolved in many metabolic pathways in animals"	HMDB0116704	384.2296391	2	5.771983333	14	1.06E-09	Control	191028.337
+6.70_972.4999	28-Glucosylarjunolate3-rhamnosyl glucuronide	Other	 		487.2572323	2	6.69965	3	1.06E-09	Control	231324.881
+4.93_220.1323	25-hydroxy-hexadehydrovitamin D3	Other	Vitamin derivative	14715099	220.1323393	2	4.926433333	2	1.15E-12	Control	34398.86942
+8.41_491.2859	Isoleucyl-Asparagine	Amino Acids	dipeptide	HMDB0028902	491.2859453	1	8.40935	21	0	Control	43374.10075
+8.71_885.4357	PE(14:1(9Z)/0:0)	Phospholipids	"Phosphatidylethanolamine, second most abundant phospholipids in mammalian cells"		885.4356978	1	8.7133	4	0	Control	123503.4802
+7.16_701.4319	"PS(12:0/18:3(9Z,12Z,15Z))"	Phospholipids	"Phosphatidylserine, serve as carbon and nitrogen source for Salmonella"	HMDB0012381	351.7232494	2	7.1625	4	1.11E-16	Control	33799.23253
+9.50_506.2969	arabinosyl glucoside derivative	Fatty Acids	 	HMDB0038732 	506.2968996	1	9.497433333	8	3.49E-09	Control	206370.0246
+7.09_256.1908	10-hydroxy-11-dodecenoic acid	Other	 		256.1908037	1	7.087333333	26	2.59E-13	Control	115413.208
+6.77_207.0530	"4-(2-Aminophenyl)-2,4-dioxobutanoic acid (DOBA)"	Tryptophan	"Involved in tryptophan metabolism pathway, correlated with Lactobacillus and Salmonella"		208.0603156	1	6.770533333	2	0	Control	2689677.58
+8.47_258.2065	12-hydroxy lauric acid	Fatty Acids	medium-chain fatty acid	7850137	258.2065449	1	8.47135	25	4.61E-13	Control	59840.15604
+4.63_228.0503	3-Maleylpyruvic acid	Tyrosine	involved in tyrosine metabolism		228.0503251	1	4.628233333	14	1.56E-10	Control	40666.79873
+6.80_134.0600	5-Hydroxyindole	Tryptophan	Involved in tryptophan metabolism 	HMDB0059805	134.0599684	1	6.7983	24	6.41E-11	Control	14951.02826
+8.68_467.2511	sn-3-O-(geranylgeranyl)glycerol 1-phosphate	Other	 	85292012	467.251084	1	8.68445	10	0	Control	31976.89235
+4.63_508.2502	Ustiloxin D	Amino Acids	 	HMDB0041054	508.2501644	2	4.628233333	2	8.01E-09	Control	49461.21955
+6.23_281.1502	Tyrosyl-Valine	Amino Acids	dipeptide	HMDB0029118	281.1502019	1	6.22895	75	5.10E-10	Control	49122.43836
+6.80_144.0442	Indole-3-carboxylic acid	Tryptophan	Involved in Tryptophan metabolic pathway	HMDB0003320	144.0442388	1	6.7983	10	7.55E-15	Control	17390.36786
+4.66_261.1405	Hexafluoro-25-hydroxyvitamin D2	Other	 		262.1477674	1	4.6604	0	1.39E-09	Control	95195.29044
+7.66_350.1753	"2',4'-Dihydroxy-3'-(1,1-dimethyl-2-propenyl)chalcone"	Other	 		350.1753157	1	7.66155	24	1.40E-09	Control	79453.71056
+5.57_278.1846	"12-Oxo-2,3-dinor-10,15-phytodienoic acid"	Other	 	HMDB0032090	278.1846381	2	5.567366667	4	1.44E-14	Control	13160.765
+7.66_506.7927	Trihexosylceramide	Other	linked with metabolic pathways involved in hypobetalipoproteinemia	HMDB0004877 	506.7927135	2	7.66155	1	0	Control	22922.44401
+4.89_206.1179	Benzyl propionate	Other	 	HMDB0030063	206.11788	1	4.887283333	46	1.28E-11	Control	16524.15484
+14.10_432.2949	Ascorbyl palmitate	Other	Vitamin C derivatives	HMDB0039883	432.2948551	1	14.10465	5	3.86E-10	Control	19631.96207
+5.25_277.1757	Hydroxyprolyl-Isoleucine	Amino Acids	dipeptide	HMDB0028866	277.1757033	1	5.247533333	15	2.22E-15	Control	40420.91611
+3.33_153.0426	3-Hydroxyanthranilic acid	Tryptophan	Intermediate in tryptophan metabolism	HMDB0001476 	154.0499111	1	3.33365	6	3.82E-08	Control	71892.6471
+11.25_477.3074	N-docosahexaenoyl GABA	Amino Acids	 	HMDB0062332	477.3074269	1	11.25401667	5	7.72E-11	Control	193690.9701
+11.25_521.2974	N-docosahexaenoyl glutamic acid	Amino Acids	 	HMDB0242013	521.2974173	1	11.25401667	9	3.33E-16	Control	169611.5568
+9.29_428.2744	"PI(18:0/17:2(9Z,12Z))"	Phospholipids	Phosphatidylinositol		428.2744476	2	9.29355	6	8.88E-16	Control	14865.08956
+4.93_107.0491	Erinapyrone B	Other	 	HMDB0041427	107.0490879	1	4.926433333	21	4.44E-16	Control	17543.00066
+3.91_238.1185	5-Hydroxy-L-Tryptophan	Tryptophan	 	HMDB0000472 	238.1184669	1	3.910466667	8	9.14E-13	Control	43421.05029
+11.89_701.2982	Ichangic acid 17-beta-D-glucopyranoside	Other	terpene glycoside	"	HMDB0037590"	701.2981601	1	11.89093333	5	0	Control	18863.38664
+8.13_145.0527	1H-Indole-3-carboxaldehyde	Tryptophan	"is a metabolite of dietary L-tryptophan which is synthesized by human gastrointestinal bacteria,"		146.0601875	1	8.132383333	1	1.88E-10	Control	484620.497
+6.77_646.1252	Laccaic acid D	Other	 	HMDB0029508	646.1251911	1	6.770533333	8	0	Control	208443.7234
+11.01_564.3392	PC(P-19:1(12Z)/0:0)	Phospholipids	Phosphatidylcholine	74380419	564.3392004	1	11.01028333	3	0	Salmonella	195357.6999
+7.70_617.3033	Assamsaponin D	Other	Glycosilated derivatives of triterpene sapogenin	HMDB0035431	617.3032641	2	7.698516667	5	4.67E-10	Control	210653.0154
+7.31_616.2846	Acetylpterosin C	Other	 	HMDB0030764	616.2845964	1	7.306866667	4	1.88E-12	Control	10808.10484
+9.08_883.4162	"1-(6Z,9Z,12Z,15Z,octadecatetraenoyl)-glycero-3-phosphate"	Phospholipids	 	HMDB0062309	883.416233	1	9.076083333	3	2.54E-12	Control	81909.58925
+0.81_168.0656	4-Hydroxy-2H-pyran-3-carboxyaldehyde	Other	 		168.0656128	1	0.805866667	22	7.10E-10	Control	58834.56693
+8.05_329.1828	"Cholestane-3,7,12,25-tetrol-3-glucuronide"	Other	 	HMDB0010355	329.1828457	2	8.04815	6	0	Control	14726.18506
+8.30_133.1014	cis-3-Hexenyl crotonate	Fatty Acids	Used by some bacterial species as a carbon and energy source	HMDB0032319	133.101427	1	8.298	125	2.79E-10	Control	33720.21752
+5.77_196.1243	"1,3-Diphenylpropane"	Other	sesquiterpenoids	HMDB0032564	229.1548516	1	5.771983333	3	0	Salmonella	3658398.717
+3.21_452.2021	8-Butanoylneosolaniol	Fatty Acids	 	HMDB0038560	453.2092771	1	3.213633333	3	1.89E-08	Control	156246.0501
+5.97_368.2175	"PG(12:0/20:5(5Z,8Z,11Z,14Z,17Z))"	Phospholipids	 		368.2174631	2	5.9707	6	0	Salmonella	200315.9976
+8.13_191.0582	5-Hydroxyindoleacetic acid	Tryptophan	product of serotonin metabolism. Serotonin is also the product of tryptophan catabolism.	HMDB0000763	192.0655147	1	8.132383333	3	0	Control	907945.084
+3.49_267.0980	"2-Hydroxy-4,7-dimethoxy-2H-1,4-benzoxazin-3-one"	Other	 	HMDB0037264	267.0979928	1	3.487783333	71	1.58E-11	Control	11165.86544
+0.76_148.0966	4-amino-2-methylenebutanoic acid	Amino Acids	 	HMDB0030409	148.0966314	1	0.759083333	36	2.47E-08	Control	47125.92794
+3.49_274.1869	Valyl-Arginine	Amino Acids	dipeptide	HMDB0304792	274.1868882	1	3.487783333	3	8.89E-12	Control	35413.05304
+2.95_295.1143	Fructose asparagine	Amino Acids	carbon and nitrogen source for Salmonella	6rAI8YabqjTWHg2	295.1143	1	2.955505	31	8.08E-05	Salmonella	
+10.16_271.0606	Galangin	Flavonoids	"Flavonoid, Protects against DSS-induced colitis by modulating gut microbiota"		271.0606406	1	10.16468333	74	2.33E-08	Salmonella	231380.7073
+15.21_430.3086	"25-Hydroxyvitamin D3-26,23-lactol"	Other	 	HMDB0060127	431.31609	1	15.21488333	39	0	Salmonella	231064.9354
+0.81_212.0917	Dihydroxyphenylethylene glycol	Other	metabolie of noreepinephrine	HMDB0000318 	212.091719	1	0.805866667	32	3.76E-14	Control	17633.77427
+8.23_589.3703	25-Hydroxyvitamin D2 25-(beta-glucuronide)	Other	 	HMDB0010360	589.3702996	1	8.229116667	8	1.20E-11	Control	68314.97281
+3.62_273.1558	Frangulanine	Amino Acids	oligopeptide	HMDB0030199	273.1557684	2	3.615116667	4	3.97E-08	Control	52620.36624
+9.61_556.3365	alpha-D-galactosyl undecaprenyl diphosphate	Other	 		556.3365275	2	9.607433333	1	1.27E-12	Control	31710.13764
+10.13_447.0927	Epigallocatechin 7-glucuronide	Flavonoids	 	HMDB0041640 	447.0926709	1	10.13	78	0	Salmonella	1705243.408
+8.13_132.0444	"5,6-dihydroxyindole"	Tryptophan	"In humans, 5, 6-dihydroxyindole is involved in the disulfiram action pathway and the tyrosine metabolism pathway. 5, 6-Dihydroxyindole is also involved in several metabolic disorders, some of which include the alkaptonuria pathway, monoamine oxidase-a deficiency (mao-a), tyrosinemia, transient, OF the newborn pathway, and dopamine beta-hydroxylase deficiency."	HMDB0004058	132.0443758	1	8.132383333	9	0	Control	24194.541
+8.68_433.2416	"PI(13:0/20:2(11Z,14Z))"	Phospholipids	Phosphatidylinositol	HMDB0009812	433.2416076	2	8.68445	22	3.81E-09	Control	16409.93151
+7.31_331.1277	"2-Carboxy-1-[5-(2-carboxy-1-pyrrolidinyl)-2-hydroxy-2,4-pentadienylidene]pyrrolidinium"	Amino Acids	 	HMDB0035173	331.1277101	1	7.306866667	33	5.39E-09	Control	20233.01263
+2.71_190.1073	Propionic acid	SCFAs	Short-chain fatty acid	HMDB0000237	190.1073429	1	2.706216667	46	3.47E-14	Control	19952.93428
+0.76_88.1121	3-methyl-1-butylamine	Other	 	HMDB0031659	88.11205852	1	0.759083333	2	1.29E-09	Control	10359.87484
+1.30_231.0980	Glutarylglycine	Amino Acids	involved in lysine metabolism	HMDB0000590 	231.0979655	1	1.301183333	61	0	Salmonella	210772.998
+4.18_215.1391	Prolylvaline	Amino Acids	 	HMDB0029030	215.1391014	1	4.184683333	72	0	Salmonella	734769.206
+7.91_1022.4931	"PIP2(16:0/20:2(11Z, 14Z))"	Phospholipids	 	HMDB0010040	512.2538438	2	7.9113	8	5.79E-08	Control	236962.7025
+4.10_424.1834	10-Hydroxloganin	Other	 		424.1834005	1	4.102766667	3	5.13E-09	Control	29615.50946
+16.89_337.2527	"Beta-Hydroxychola-5,16-dien-24-oic acid"	Bile Acids	 		337.2526762	1	16.88548333	61	8.77E-15	Control	10458.42
+4.51_154.0501	N-Acetylglutamic acid	Amino Acids	It is the first intermediate involved in the biosynthesis of arginine in prokaryotes and simple eukaryotes and a regulator in the process known as the urea cycle that converts toxic ammonia to urea for excretion from the body in vertebrates.	HMDB0001138	154.0501027	1	4.513583333	15	1.29E-11	Control	12265.23049
+1.05_146.1542	Pyroglutamine	Amino Acids	metabolite in the glutathione cycle	HMDB0062558	146.1541976	1	1.046783333	46	1.21E-10	Control	14807.6507
+15.54_513.2765	Sulfoglycolithcholic acid	Bile Acids	Bile acid produced by bacterial action in colon		531.3099535	1	15.54395	2	1.01E-10	Salmonella	241642.2746
+4.66_200.0919	Hydroxyphenyllactic acid	Tyrosine	"a tyrosin metabolite, D-form of hydroxyphenyllactate is of bacterial origin and is also found in individuals with bacterial overgrowth or unusual gut microflora .Lactobacillus is one of these bacteria."	HMDB0000755	200.0919295	1	4.6604	33	0	Control	37798.43413
+10.93_665.3514	Phenylalanyl-Arginine	Amino Acids	dipeptide	HMDB0028989	665.3514088	1	10.93196667	9	9.93E-14	Control	44804.03193
+4.32_408.7029	beta-D-Glucosyloxydestruxin B	Flavonoids	 	HMDB0040136	408.702904	2	4.324516667	1	3.14E-12	Control	28000.58312
+12.86_491.3234	N-oleoyl tryptophan	Tryptophan	 	123060511	491.3234389	1	12.86065	1	2.03E-09	Control	216341.8455
+6.91_370.1976	Xanthoplanine	Other	"Diet-derived, affect macrophage function"	HMDB0033356	370.1975955	2	6.909033333	2	7.26E-14	Control	44439.24215
+0.74_113.0295	(2-Naphthalenyloxy) acetic acid	SCFAs	 	HMDB0032706 	113.0295178	2	0.740716667	4	1.27E-07	Control	20145.13022
+10.60_533.1293	Tetrahydroxy-tetramethoxyflavone 3'-glucoside	Flavonoids	flavonoid		533.1293094	1	10.60346667	19	1.11E-16	Salmonella	450587.6018
+7.12_186.1005	Alanyl-Proline	Amino Acids	dipeptide	HMDB0028695	187.107808	1	7.12335	2	0	Salmonella	547910.5244
+8.78_469.2087	5-Methoxytryptophan	Tryptophan	Biosynthesized from L-Tryptophan	HMDB0002339	469.2087402	1	8.777466667	8	2.13E-10	Control	40787.8462
+7.34_570.3303	Pyrrhoxanthinol	Prenols	Prenol Lipid	HMDB0035696	634.3408424	1	7.3437	1	0	Control	82038.98624
+12.19_445.1135	Kaempferol 3-glucoside	Flavonoids	"Flavonoid, High level of Kaempferol in gut regulates normal microbiota"		445.1134833	1	12.18865	89	1.11E-16	Salmonella	66345.53232
+12.96_468.3072	N-heptanoyl-homoserine lactone	Other	"small diffusible signaling molecule involved in quorum sensing, thereby controlling gene expression and affecting cellular metabolism. The diverse applications of this molecule include regulation of virulence, infection prevention"		468.3072096	1	12.95733333	31	1.33E-15	Control	162762.0327
+0.72_285.1330	Glycylprolylhydroxyproline	Amino Acids	oligopeptide	HMDB0002171	303.1774776	1	0.7189	1	3.95E-10	Control	42020.6938
+8.13_407.0822	trans-3-hydroxycotinine glucuronide	Sugar/Carbohydrate	 	HMDB0001204	407.0822478	1	8.132383333	4	4.22E-14	Control	46082.00155
+10.26_665.7886	cobalamin	Other	Vitamin B12 is synthesized by some human gut microbes. This vitamin may make a contribution in shaping the structure and function of human gut microbial communities.It is mediating both host-microbe and microbe-microbe interactions in the gut	HMDB0002174	665.7886315	2	10.26378333	1	4.91E-13	Control	22237.2876
+7.53_472.2642	Propenoylcarnitine	Fatty Acids	 	HMDB0013124	472.264196	1	7.534883333	8	2.63E-11	Control	15540.30402
+6.66_347.1887	CDP-DG(18:0/18:1(11Z))	Phospholipids	"cytidine diphosphate diacylglycerol,involved in in eukaryotic phospholipid biosynthesis and could be a key regulatory molecule in phospholipid metabolism."	HMDB0006979	347.1886923	2	6.663766667	4	3.33E-12	Control	23006.67197
+1.42_205.1184	2-Amino-4-ethoxy-3-hydroxybutanoic acid	Amino Acids	 	HMDB0032862	205.1183771	1	1.420183333	52	8.10E-15	Salmonella	307449.9213
+8.81_545.2249	4-deoxyphysalolactone	Other	ergostane-type steroids	HMDB0034346	545.224925	1	8.814333333	5	7.98E-12	Control	159675.0943
+0.74_267.1100	L-isoleucyl-L-proline	Amino Acids	dipeptide	HMDB0011174	267.1099917	1	0.740716667	15	1.45E-09	Control	23880.79383
+3.95_434.1892	PE(6:0/6:0)	Phospholipids	"Phosphatidylethanolamine, second most abundant phospholipids in mammalian cells"		434.1892338	1	3.947	6	7.73E-08	Control	1085674.409
+6.43_386.2287	9-Hydroxy-7-megastigmen-3-one-glucoside	Fatty Acids	 	HMDB0040701	386.2287499	2	6.4343	6	0	Control	138508.835
+0.74_81.0446	Pyrimidine	Other	 	HMDB0003361	81.04462832	1	0.740716667	6	1.49E-09	Control	30742.10046
+6.66_465.3051	Glycocholic acid	Bile Acids	Bile acid produced by bacterial action in colon	yBEe- JrmafM34YZ 	465.305112	1	6.663766667	8	5.33E-15	Control	15902.86782
+15.91_462.2686	Cytochalasin B	Other	 	HMDB0250718	462.2686008	1	15.90935	4	0	Salmonella	572003.6071
+15.12_1023.5429	Ganglioside GT2(d18:0/22:0)	Phospholipids	glycosphingolipids	HMDB0012029	1023.542905	2	15.12496667	1	7.40E-11	Control	77517.91769
+7.12_234.1697	Undecanedioic acid	Fatty Acids	 	HMDB0000888	234.1697049	1	7.12335	12	1.02E-09	Control	28742.00711
+0.76_220.1173	2-O-methyl-L-fucose	Other	monosaccharide derivative	HMDB0033789	220.1173361	1	0.759083333	13	1.47E-08	Control	13426.83137
+3.69_244.2020	5-Aminopentanal	Other	derived from oxidation of the diamines cadaverine and putrescine	HMDB0012815	244.2020486	1	3.693883333	8	8.18E-10	Control	82371.97595
+11.80_263.1281	"8-deoxy-11,13-dihydroxygrosheimin"	Prenols	 	HMDB0041144	263.128123	1	11.80078333	34	2.89E-15	Control	14985.2759
+0.74_202.0711	Oxoadipic acid	Fatty Acids	involved in lysine metabolism	HMDB0000225	202.0711437	1	0.740716667	26	2.12E-10	Control	52223.56528
+3.00_196.0636	"3,3'-thiobispropanoic acid"	Other	 	HMDB0031162	196.0636098	1	3.002983333	2	0	Control	34378.45853
+12.14_288.1271	Lysyl-Proline	Amino Acids	dipeptide	HMDB0028959 	288.1270915	1	12.14411667	4	2.22E-16	Salmonella	48816.42783
+8.01_899.5438	41-O-demethylrapamycin	Other	 	HMDB0061048	450.7791583	2	8.014033333	1	0	Salmonella	353095.5082
+5.46_159.0684	Indole	Tryptophan	the main metabolite produced by gut normal bacteria from tryptophan	HMDB0000738	142.0650682	1	5.455466667	2	4.09E-10	Salmonella	47162.58473
+5.43_187.1078	L-trans-5-hydroxy-2-piperidinecarboxylic acid	Amino Acids	 	HMDB0029426	187.1078206	1	5.4266	81	0	Salmonella	133143.9831
+1.41_499.3791	"4,7,10-hexadecatrienoic acid"	Fatty Acids	Fatty acid	HMDB0302991	499.379051	1	1.411266667	19	1.30E-10	Control	21393.30672
+0.77_535.3644	Cyclotricuspidogenin C	Other	 	HMDB0033635	535.3644041	1	0.768766667	3	2.56E-11	Control	246420.5402
+0.96_533.3480	2-Linoleoylglycerophosphocholine	Phospholipids	LGPC is a phospholipid associated with multiple metabolic disorder like insulin resistance	HMDB0061700 	533.3479937	1	0.962383333	3	1.60E-14	Control	124831.903
+2.42_146.0613	Methyl-N-methylanthranilate	Tryptophan	Anthranilate is the biosynthetic precursor to the amino acid tryptophan.	HMDB0034169	146.0612806	1	2.422616667	14	0.061046096	Control	291163.1632
+1.94_255.1239	Glutamyl-lysine	Amino Acids	dipeptide	HMDB0004207	255.1239427	1	1.937266667	5	3.83E-06	Control	451483.06
+2.46_227.1289	3-Hexenoic acid	Fatty Acids	 	HMDB0031501	227.1288827	1	2.460466667	53	0.000378091	Control	493994.6449
+0.99_209.0851	2-Ethyl-1-hexanol sulfate	Other	 	HMDB0033373	209.085141	1	0.985266667	1	4.37E-05	Control	198030.2125
+0.63_509.2904	PG(18:1(9Z)/0:0)	Phospholipids	Glycerophopholipid		509.2904263	1	0.630683333	1	2.45E-08	Control	95257.06946
+1.85_165.0769	1-Deoxy-D-glucitol	Other	 	HMDB0041500	165.0769474	1	1.8501	2	0.014977968	Control	89423.33603
+1.82_347.1855	Hexanoic acid	Fatty Acids	"Short-chain fatty acid, associated with gut microbiota"		347.1854947	1	1.818783333	28	1.98E-11	Control	28918.25263
+2.69_162.0562	3-methyldioxyindole	Tryptophan	"oxidation product of 3-methylindole which is a metabolic product of tryptophan, produced by bacteria in the colon"	HMDB0004186	162.0562475	1	2.687916667	11	0.004249401	Control	223110.5157
+2.42_190.0509	5-Hydroxyindole acetic acid	Other	5-Hydroxyindoleacetic acid (5-HIAA) is the main metabolite of serotonin		190.0509101	1	2.422616667	5	0.722340205	Control	945580.8924
+0.63_339.1229	Glyceollidin I	Flavonoids	derivatives of isoflavonoids	HMDB0034026	339.1228592	1	0.630683333	60	1.97E-06	Control	25229.64221
+1.62_343.2128	N-butyl n-valeric acid	Fatty Acids	Short-chain fatty acid derivatives		343.2127676	1	1.62	27	0.005688144	Control	1199847.074
+1.69_345.2281	"9-hydroxyperoxy-12,13-dihydroxy-10-octadecenoic acid"	Fatty Acids	Fatty acid	135636091	345.2281024	1	1.694466667	6	3.73E-08	Control	666646.9041
+1.59_249.0955	Isopropyl citrate	Other	 	HMDB0032438	249.0954755	1	1.585016667	1	0.069786361	Control	7689.834435
+0.67_255.0335	4-Hydroxy-5-(phenyl)-valeric acid-O-sulphate	Other	 	HMDB0059981	255.0335068	1	0.667633333	1	0.17770886	Control	323308.3536
+1.66_343.0790	"5,8,4'-Trihydroxy-3,7-dimethoxy-6-methylflavone"	Flavonoids	flavonoid derivative	85296810	343.0790499	1	1.655916667	71	1.39E-07	Control	35051.04909
+1.78_375.2747	Hexyl(R)-3-hydroxybutyrate	Other	 		375.2747272	1	1.779716667	30	2.05E-09	Control	27118.95036
+0.86_182.0457	4-Pyridoxic acid	Other	4-pyridoxic acid is involved in the vitamin B6 metabolic pathway	HMDB0000017	182.0456861	1	0.86455	2	0.042883091	Control	77075.26689
+0.79_377.2708	ursodeoxycholic acid	Bile Acids	"secondary bile acid, produced in humans and most other species from metabolism by intestinal bacteria."	LMST0406002 8 	377.2708278	1	0.7915	20	2.50E-05	Control	74123.237
+0.57_513.3192	2-Hexenoylcarnitine	Fatty Acids	 	HMDB0013161	513.3192156	1	0.574166667	3	0.000181609	Control	31400.1136
+1.59_457.2831	"2,4,6,8-Decatetraenoic acid dehydropiperidine"	Other	 	HMDB0033531	457.2830799	1	1.585016667	5	2.11E-10	Control	16944.67978
+1.82_347.2431	caproic acid	Fatty Acids	"Short-chain fatty acid, associated with gut microbiota"	HMDB0000535	347.2431291	1	1.818783333	57	3.52E-10	Control	170963.2656
+5.98_221.0574	Pyrrole-2-carboxylic acid	Other	a derivative of the oxidation of the D-hydroxyproline isomers by mammalian D-amino acid oxidase.	HMDB0038175 	221.0573908	1	5.976583333	3	1.77E-06	Control	191393.8293
+1.69_815.5683	"3alpha,7beta,21chi-Trihydroxy-5beta-cholan-24-oic acid"	Bile Acids	Bile acid that could be affected bu gut microbiota		815.5682743	1	1.694466667	98	6.54E-13	Control	445138.3873
+1.12_243.1237	Phaseolic acid	Other	 	HMDB0031897	243.1236885	1	1.116133333	3	0.134302606	Control	23839.30589
+2.76_269.0457	Tetrahydroxyflavonone	Flavonoids	"Flavonoid, Protects against DSS-induced colitis by modulating gut microbiota"	HMDB0040314	269.04574	1	2.760483333	59	0	Salmonella	1260270.71
+0.82_349.2383	Tetrahydrodeoxycortisol	Other	"metabolite of 11-deoxycortisol. THS excretion is significantly associated with tetrahydroaldosterone excretion, total androgen excretion, and cortisol metabolites."	HMDB0005972	349.2382561	1	0.8192	20	5.30E-10	Control	50767.229
+1.28_257.2123	3-Hydroxypentadecanoic acid	Fatty Acids	 	HMDB0061657 	257.2122698	1	1.276966667	32	9.92E-08	Control	79144.74401
+0.84_568.3220	Deoxycholic acid 3-glucuronide	Bile Acids	is a natural human metabolite of Deoxycholic acid generated in the liver by UDP glucuonyltransferase. 	HMDB0002596	567.3001478	1	0.843166667	7	8.70E-08	Control	848225.3469
+0.63_351.2178	prostaglandin E2	Fatty Acids	Endogenous prostaglandin E2 potentiates anti-inflammatory phenotype of macrophage	HMDB0001220	351.2177728	1	0.630683333	158	0.274098532	Control	91338.8873
+1.54_389.1647	Tryptophyl-Trypyophan	Amino Acids	dipeptide	HMDB0029094 	389.164654	1	1.54255	2	1.01E-07	Control	324757.5487
+0.92_162.0538	2-Hydroxyadipic acid	Fatty Acids	hydroxy-dicarboxylic acid formed by the reduction of 2-ketoadipic acid	HMDB0000321	161.0453931	1	0.915466667	16	0.634726733	Control	132479.9236
+0.75_179.0021	"2,4,6-Trimethyl-1,3,5-trithiane"	Other	 	HMDB0031671	179.0021457	1	0.746616667	2	1.41E-11	Control	123330.5587
+0.75_267.0904	Histidinyl-Methionine	Amino Acids	dipeptide	HMDB0028891	267.0904271	1	0.746616667	4	0.600490356	Control	75233.02994
+1.04_289.0673	2-keto-glutaramic acid	Other	associated with glutamate metabolism and change of gut microbiota	HMDB0001552 	289.067349	1	1.040166667	2	5.20E-06	Control	39059.14492
+1.07_375.2751	3-Hydroxycapric cid	Other	 	HMDB0002203 	375.2751094	1	1.067383333	30	1.03E-06	Control	21000.18531
+0.94_235.1010	7-Azaindolizine	Other	 	HMDB0033576	235.1010061	1	0.9404	2	0.005748302	Control	59475.68989
+2.39_491.2791	Kynuramine	Tryptophan	Kynuramines are endogenously occurring diamines derived from tryptophan.	HMDB0012246 	491.2790714	1	2.392816667	3	5.00E-06	Control	616053.5176
+1.01_573.4524	"DG(15:1(9Z)/18:3(9Z,12Z,15Z)/0:0)"	Phospholipids	"diglyceride, or a diacylglycerol (DAG).  Synthesis of diacylglycerol begins with glycerol-3-phosphate, which is derived primarily from dihydroxyacetone phosphate, a product of glycolysis (usually in the cytoplasm of liver or adipose tissue cells)."	135638217	573.4524408	1	1.009766667	5	9.56E-05	Control	206321.1096
+1.25_392.2927	Deoxycholic acid	Bile Acids	"Deoxycholic acid is one of the secondary bile acids, which are metabolic byproducts of intestinal bacteria."	HMDB0000626	391.2854573	1	1.24755	68	3.56E-05	Control	3061903.704
+0.52_173.9982	Apigenin 7-sulfate	Flavonoids	 	HMDB0037851 	173.9981569	2	0.520583333	2	6.07E-08	Salmonella	29082.52001
+0.82_395.2098	Isopetasoside	Prenols	 	HMDB0029622	395.2097718	1	0.8192	6	1.77E-05	Control	86865.29212
+0.67_297.0427	"7-methoxy-3,6,3',4'-tetrahydroxyflavone"	Flavonoids	 	HMDB0040314 	297.0426742	1	0.667633333	64	0.13658171	Control	50653.30388
+0.72_333.1353	Coriandrone D	Other	 	HMDB0029972	333.1353436	1	0.7161	2	0.001512495	Control	89656.2223
+4.20_116.0718	L-valine	Amino Acids	 	HMDB0000883	116.0718374	1	4.202883333	14	6.86E-06	Salmonella	197249.509
+1.89_239.0770	Dihydroxyisobutyric acid	Other	 	HMDB0002601	239.077044	1	1.889183333	14	2.23E-12	Salmonella	130501.9117
+2.69_328.2497	Undecanoylcarnitine	Fatty Acids	Associated with some metabolic disorders	HMDB0013321	328.2497255	1	2.687916667	4	1.06E-08	Control	134206.3192
+1.09_287.2226	2-methylheptanoic acid	Fatty Acids	 	HMDB0031587	287.2226201	1	1.091766667	83	0.000254994	Control	47585.71752
+2.21_215.0330	1-Hydroxy-2-methyl-4-oxo-1-benzopyran-5-acetic acid	Other	 	HMDB0040407	215.0330157	1	2.206183333	6	0.000471122	Control	52633.77812
+2.95_345.2286	"9,10-Dihydroxy-octadecanedioic acid"	Fatty Acids	 		345.2285878	1	2.9523	6	0.044440861	Control	80041.42959
+0.63_511.3072	Triterpenoid	Prenols	 	HMDB0004309	511.3071773	1	0.630683333	7	6.72E-09	Control	62804.74279
+0.67_319.1218	O-Acetylcyclocalopin A	Other	 	HMDB0039824	319.1218086	1	0.667633333	7	0.012414911	Control	104628.5655
+2.73_487.2379	7-sulfocholic acid	Bile Acids	is a metabolite of the primary bile acid cholic acid. produced by conjugation of a sulfate group with the hydroxy group at position 7 of cholic acid in the liver and gut	HMDB0002421	487.2379411	1	2.725883333	7	0.003070784	Control	391206.7405
+1.73_166.0181	L-homocysteine sulfinic acid	Amino Acids	potent and effective agonists at several rat metabotropic glutamate receptors 	HMDB0250705	166.0181491	1	1.733483333	2	0.705915958	Control	544371.9947
+2.42_131.0362	D-Ribose	Sugar/Carbohydrate	"D-ribose, a naturally occurring pentose monosaccharide and Accelerates Gut Motility"	HMDB0000283	131.036233	1	2.422616667	44	0.000491355	Salmonella	40678.4902
+2.36_307.0857	1-(5-Methyl-2-thienyl)-1-propanone	Other	 	HMDB0040231	307.085715	1	2.3624	3	7.69E-05	Control	55148.43141
+0.65_335.1158	"Methyl-8-hydroxy-9-decene-4,6-diynoate glucoside"	Fatty Acids	 	HMDB0040898	335.1158443	1	0.650916667	3	7.65E-05	Control	15398.31312
+0.63_361.2023	"4,5beta-dihydrocortisone"	Other	is also involved in several metabolic disorders		361.2022888	1	0.630683333	18	2.73E-07	Control	140204.052
+5.37_180.0667	L-Tyrosine	Tyrosine	 	HMDB0000158 	180.0667309	1	5.3683	10	0.019753659	Salmonella	598109.2051
+0.86_125.0354	N-Nitrosoproline	Amino Acids	 	HMDB0041946	125.0353711	1	0.86455	4	0.018134798	Salmonella	79208.45118
+2.95_158.0824	Valerylglycine	Amino Acids	 	HMDB0000927	158.0823574	1	2.9523	16	0.001993401	Salmonella	751231.7959
+0.89_298.0721	D-4'-phosphopantothenate	Amino Acids	"In humans,D-4'-phosphopantothenate is involved in pantothenate and CoA biosynthesis pathway."	HMDB0001016	298.0721208	1	0.8863	5	0.012066017	Salmonella	35364.61123
+3.06_253.0509	"3,7-Dihydroxyflavone"	Flavonoids	flavonoid derivative	85295208	253.0508959	1	3.058483333	54	2.64E-08	Salmonella	567721.4404
+4.94_164.0718	Phenylalanine	Amino Acids	 	HMDB0000159	164.071756	1	4.94425	17	1.39E-06	Salmonella	2600307.02
+0.75_327.2332	Docosahexaenoic acid (DHA)	Fatty Acids	Omega-3 fatty acid	HMDB0002183 	327.2331917	1	0.746616667	33	0.000600644	Salmonella	725730.6347
+2.90_114.0928	N-(3-Methylbutyl)acetamide	Other	 	HMDB0031651	114.0927702	1	2.9029	2	0.00812489	Salmonella	18752.25612
+1.01_409.1896	Pteroside A	Sugar/Carbohydrate	 	HMDB0030758	409.1895675	1	1.009766667	4	5.90E-08	Control	1488195.559
+5.81_116.0718	N-Methyl-a-aminoisobutyric acid	Amino Acids	N-Methyl-a-aminoisobutyric acid is a metabolite that is actively incorporated into the cell by the actions of Interleukin 1-beta and Interleukin 6 via sodium dependent transport systems	HMDB000214 	116.0718234	1	5.814083333	14	0.006135818	Salmonella	269576.9719
+0.99_556.2960	Mauritine A	Amino Acids	Cyclic peptide	HMDB0029338	556.2959928	1	0.985266667	1	3.81E-07	Salmonella	202830.419
+0.92_499.3067	Valerenolic acid	Prenols	 	HMDB0036563 	499.3066617	1	0.915466667	39	8.47E-08	Control	251009.1917
+0.89_352.1225	N-Methyl-14-O-demethylepiporphyroxine	Other	triacylglycerols	HMDB0030171	352.1225456	1	0.8863	6	0.001397581	Salmonella	54638.27855
+1.28_331.2491	"9,10,13-Trihydroxystearic acid"	Fatty Acids	Long-chain fatty acid	HMDB0030935	331.2491136	1	1.276966667	5	0.066529201	Control	519728.6987
+2.17_248.0957	Iridodial glucoside tetraacetate	Other	 	74382136	248.0957204	2	2.166316667	6	0.00063175	Salmonella	39803.37025
+2.33_493.2942	Lysyl-Threonine	Amino Acids		HMDB0028961	493.2942379	1	2.328633333	8	1.72E-06	Control	2375891.993
+3.45_191.0199	Galactaric acid	Sugar/Carbohydrate	"D-Glucaro-1,4-lactone can alteration of Gut Bacteria and Metabolomes "	"	HMDB0000639"	191.0198992	1	3.445833333	14	0.000692218	Salmonella	139503.8757
+0.94_153.0195	"2,6-Dihydroxybenzoic acid"	Other	 	HMDB0013676 	153.0195003	1	0.9404	7	4.17E-08	Control	20285.73572
+1.04_200.0566	N-acetyl-L-2-aminoadipate	Amino Acids	 	HMDB0062715	200.0565852	1	1.040166667	2	0.005627309	Control	22058.94888
+0.63_525.3239	2-Arachidonoylglycerophosphocholine	Phospholipids	is a phosphatidylcholine	HMDB0061699 	525.3238573	1	0.630683333	9	4.86E-06	Control	65590.03529
+2.49_577.3022	3-Methylglutarylcarnitine	Fatty Acids	3-Methylglutarylcarnitine is a diagnostic metabolite of 3-hydroxy-3-methylglutaryl-coenzyme A lyase deficiency	HMDB0000552	577.3021935	1	2.494833333	3	4.25E-05	Salmonella	189942.0994
+4.20_802.5621	PS(17:1(9Z)/20:0)	Phospholipids	Phosphatidylserine	123062931	802.5621322	1	4.202883333	15	1.39E-12	Salmonella	256026.3006
+2.80_142.0873	L-carnitine	Other	 	HMDB0000062 	142.0873312	1	2.799866667	6	1.82E-09	Salmonella	104418.6843
+1.07_397.3323	Tetracosanedioic acid	Fatty Acids	 	HMDB0302983	397.3323247	1	1.067383333	3	6.13E-10	Control	104993.5479
+1.14_137.0244	4-Hydroxybenzoic acid	Other	"In bacteria, it will be synthesized from chorismate by chorismate lyase"	HMDB0000500	137.0244151	1	1.14335	11	0.010539348	Control	53713.08415
+1.62_510.2539	Glycochenodeoxycholate-3-sulfate	Bile Acids	glycinated bile acids	HMDB0002497 	510.2539426	1	1.62	6	1.20E-05	Salmonella	463801.9162
+2.69_192.0666	Phenylacetylglycine	Amino Acids	involved in phenylalanine metabolism	HMDB0000821 	192.0666321	1	2.687916667	13	0.266658563	Salmonella	798614.2829
+1.04_243.0621	L-Glutamyl-L-aspartic acid	Amino Acids	dipeptide	HMDB0028815	243.0621071	1	1.040166667	5	0.32020529	Control	707989.2126
+0.96_459.1300	4'-O-methyl-epicatechin-5-O-beta-glucuronide	Flavonoids	 	HMDB0029181 	459.1299654	1	0.962383333	33	0.000138016	Control	80395.32402
+2.21_305.1508	Dopamine	Other	is a hormone and neurotransmitter that plays several roles in body	HMDB0000073	305.150764	1	2.206183333	3	0.031973506	Control	48088.70397
+5.81_114.0561	4-amino-2-methylbutanoic acid	Amino Acids	 	HMDB0030409 	114.056134	1	5.809933333	8	3.54E-11	Salmonella	337591.4714
+0.63_509.2591	Artenolide	Other	 	HMDB0037565	509.2590777	1	0.630683333	7	1.95E-08	Control	140779.4105
+4.14_828.4813	"PS(20:4(5Z,8Z,11Z,14Z)/20:5(5Z,8Z,11Z,14Z,17Z))"	Phospholipids	Phosphatidylserine	HMDB0112645	828.4813224	1	4.135533333	8	1.23E-05	Salmonella	46745.21059
+3.06_208.0616	Hydroxyphenylacetylglycine	Amino Acids	endogenous human metabolite. It can be originated from the metabolism of tyramine	HMDB0000735	208.0616355	1	3.058483333	2	0.00427365	Salmonella	64353.35785
+3.66_173.0932	Glycyl-Valine	Amino Acids	Arginine metabolic pathway/dipeptide	HMDB0028854 	173.093152	1	3.663533333	6	0.000726552	Salmonella	433315.9815
+8.10_118.0513	L-Threonine	Amino Acids	 	HMDB0000167	118.0513084	1	8.104633333	5	3.15E-07	Salmonella	505658.3254
+0.63_95.0251	Dihydrouracil	Other	an intermediate in the catabolism of uracil	HMDB0000076 	95.02509668	1	0.630683333	3	0.441001223	Salmonella	88087.78624
+8.83_241.1081	Glycerol Tripropanoate	Other	 	HMDB0032857 	241.1080908	1	8.829716667	1	0	Control	711480.1431
+9.64_217.1080	3-hydroxy-sebacic acid	Bile Acids	Associated with glycholic acid which is a secondary bile acid produced by gut microbiota/detected in colorectal cancer metabolite	HMDB0000350	217.1080358	1	9.636566667	4	8.10E-15	Control	808061.9638
+8.80_173.0818	Suberic acid	Fatty Acids	"medium-chain fatty acids/linked to several inborn metabolic disorders including medium chain acyl-CoA dehydrogenase deficiency, carnitine-acylcarnitine translocase deficiency, and malonyl-CoA decarboxylase deficiency."	HMDB0000893	173.0817568	1	8.798066667	9	0	Control	327760.0168
+10.57_231.1235	Isopentyl beta-D-glucoside	Fatty Acids	 	HMDB0034750	231.1234703	1	10.56718333	3	4.44E-16	Control	214556.6969
+4.05_222.0770	N-Acetyl-L-Tyrosine	Tyrosine	Known metabolite associated with colorectal cancer	HMDB0000866 	222.0769933	1	4.045183333	3	2.81E-08	Control	42248.33142
+10.78_287.1498	4-hydroxycyclohexylcarboxylic acid (4-HCH)	Other	4-HCH is a by-product of gut bacterial metabolism.	HMDB0001988 	287.1498039	1	10.77665	17	1.74E-13	Control	413896.3548
+0.98_161.0456	L-Galactose	Sugar/Carbohydrate	 	HMDB0033704	161.0455727	1	0.978833333	42	2.19E-12	Salmonella	296839.6088
+8.00_227.1287	3-hydroxydodecanedioic acid	Fatty Acids	Bacterial medium chain fatty acid metabolites (produced by lactobacillus sp.)	HMDB0000413	227.1287128	1	7.995	53	1.17E-05	Control	356931.2385
+10.09_259.1184	Pantolactone	Other	 	HMDB0059876	259.1184212	1	10.08783333	25	3.66E-14	Control	483861.1584
+9.36_261.1342	creatine	Amino Acids	is metabolized in human by gut microbiota	HMDB0000064	261.1342272	1	9.360783333	4	7.91E-10	Control	296500.2195
+0.98_163.0610	Rhamnose	Sugar/Carbohydrate	associated with gut inflammation	HMDB0000849 	163.0610482	1	0.978833333	25	1.14E-05	Salmonella	421482.5157
+0.87_164.9863	6-thiouric acid	Other	 	HMDB0060417	164.9862879	1	0.86995	3	1.64E-13	Control	245821.2882
+5.71_349.1518	(25)-2-Butanol O-[b-D-Apiofuranosyl-b-D-glucopyranoside)	Sugar/Carbohydrate	 	HMDB0041255	349.1517576	1	5.705416667	1	2.29E-12	Control	62559.30507
+0.84_221.0666	Ethyl glucuronide	Sugar/Carbohydrate	can be produced or metabolized by gut microbiota	HMDB0010325	221.0666175	1	0.837816667	2	1.02E-08	Control	105449.3627
+8.44_301.1201	2-phenylglycine	Amino Acids	 	HMDB0002210 	301.1201446	1	8.444833333	12	5.40E-07	Control	57202.70444
+0.84_103.0402	4-hydroxybutyric acid	Amino Acids	accosciated with change of normal microbiota and colorectal cancer	HMDB0061877 	103.0401629	1	0.837816667	21	2.13E-07	Control	46597.42332
+0.90_321.1302	N-methyl-L-glutamic acid	Other	bacterial xenobiotic metabolite	HMDB0062660	321.1302205	1	0.899083333	10	0	Control	11603.8406
+0.90_175.0249	Pectin (D-glucuronic acid)	Sugar/Carbohydrate	Pectin is an emerhing probiotic/it has correlation with both Salmonella and Lactobacillus	HMDB0003402	175.0249175	1	0.899083333	22	1.61E-10	Control	180279.5789
+9.88_175.0250	Ascorbic acid	Other	Known gut metanolite linked to bacteria 	HMDB0000044	175.0250195	1	9.876166667	22	3.67E-12	Salmonella	129416.2891
+12.34_350.1088	N-Acetyl-9-O-acetylneuraminic acid	Sugar/Carbohydrate	associated with both pathogenic and some normal microbiota/can be used as nitrogen and carbon source for bacteria	HMDB0000794	350.1087574	1	12.33978333	4	8.87E-06	Salmonella	60234.19258
+13.52_614.2094	Indoleacetic acid (IAA)	Tryptophan	product of colonic microbial metabolism from dietary trptophan	HMDB0000671 	614.2093819	1	13.52175	6	0	Salmonella	271112.6014
+0.77_179.0560	beta-D-glucose	Sugar/Carbohydrate	Known intestinal metabolite also related to gut microbiota	HMDB0000516 	179.0560122	1	0.7706	41	1.70E-09	Salmonella	2251121.255
+8.37_175.0251	Pectic acid	Sugar/Carbohydrate	Pectin is an emerhing probiotic/it has correlation with both Salmonella and Lactobacillus	HMDB0003363 	175.0250777	1	8.36805	22	5.24E-10	Salmonella	138297.6181
+11.16_506.1060	Tricin 7-glucuronide	Flavonoids	flavonoid derivatives	HMDB0033894	505.0987733	1	11.16245	19	1.11E-16	Salmonella	388461.4024
+12.82_269.1392	Arginyl-Asparagine	Amino Acids	"Dipeptide, product of protein catabolism"	HMDB0028704	269.1391872	1	12.81791667	2	1.36E-05	Control	124044.9659
+11.26_245.1392	hexyl glucoside	Fatty Acids	 	HMDB0031688	245.1392235	1	11.25528333	4	2.73E-12	Control	523530.5504
+6.60_452.1320	Catechin 5-glucoside	Flavonoids	 	HMDB0037948	433.1141518	1	6.59575	32	1.14E-08	Control	368977.8819
+10.78_317.1964	8-hydroxyoctanoate	Fatty Acids	medium chain fatty acid	HMDB0061914	317.1963741	1	10.77665	6	3.14E-06	Control	62128.03614
+3.53_164.0717	L-phenylalanine	Amino Acids	"amino acid, Known intestinal metabolite with role in intestinal inflammation and modulating glucose tolerance"	HMDB0000159 	164.0717061	1	3.5285	17	0.00011279	Salmonella	815692.913
+18.57_397.1472	Phenylethyl primeveroside	Sugar/Carbohydrate	 	HMDB0041274	397.1471633	1	18.57031667	6	8.25E-07	Control	51307.11792
+0.74_229.0479	L-beta-aspartyl-aspartic acid	Amino Acids	"dipeptide, product of protein catabolism"	HMDB0011163	229.047933	1	0.74295	2	1.81E-08	Salmonella	20040.12216
+6.16_128.0354	Glutamic acid	Amino Acids	amino acid	HMDB0003339 	128.0353911	1	6.159033333	17	0	Salmonella	64270.31023
+0.80_341.1086	Trehalose	Sugar/Carbohydrate	dissacharide	HMDB0000975 	341.1085695	1	0.8007	27	2.02E-09	Salmonella	86269.56313
+7.19_332.1251	Cytosine	Other	 	HMDB0000630	332.1251406	1	7.188433333	1	1.15E-06	Salmonella	81377.86626
+13.39_510.2534	Sulfoglycolithocholate	Bile Acids	Bile acid produced by bacterial action in colon	HMDB0062801	510.2533841	1	13.38555	6	4.61E-11	Salmonella	1059898.658
+8.12_371.0981	Monotropein	Prenols	anti-inflammatory activities	HMDB0035608	371.0980797	1	8.117766667	9	5.09E-09	Salmonella	81094.83355
+0.71_217.0304	Hypotaurine	Amino Acids	involved In biosynthesis of taurine	HMDB0000965	217.0304093	1	0.713633333	3	0.001195341	Control	104757.8115
+6.83_177.0192	4-hydroxy-benzenepropanedioate	Other	 	HMDB0059809	177.0191795	1	6.828516667	5	3.02E-12	Control	78151.2127
+0.94_275.0881	Gamma glutamylglutamic acid	Amino Acids	"Dipeptide, product of protein catabolism"	HMDB0011737 	275.0881456	1	0.941683333	5	8.37E-05	Salmonella	162640.8497
+6.16_294.1224	Glutamylphenylalanine	Amino Acids	"Dipeptide, product of protein catabolism"	HMDB0029156	293.114312	1	6.159033333	7	6.57E-13	Salmonella	572824.6365
+8.58_563.1408	Apiin	Other	Beta-D-Glucoside	HMDB0030843	563.1408126	1	8.584483333	59	1.60E-06	Salmonella	273264.3458
+0.74_136.0372	Threonic acid	Other	Metabolite of ascorbic acid (vit C)	HMDB0000943 	135.0299332	1	0.74295	8	4.58E-08	Salmonella	274041.8282
+9.28_245.0946	N-acetyltryptophan	Tryptophan	N-Acetyltryptophan is a catabolite of tryptophan converted by the gut microbiota	HMDB0013713	245.0946309	1	9.27565	10	2.09E-11	Salmonella	164447.0801
+5.42_293.1143	Hydroxyprolyl-Tyrosine	Tyrosine	"dipeptide, product of protein catabolism"	HMDB0028875	293.1143383	1	5.415383333	7	9.88E-15	Control	70066.60415
+0.94_103.0037	Hydroxypyruvic acid	Other	the oxidixed derivative of lactic acid	HMDB0001352	103.0036723	1	0.941683333	9	8.23E-08	Salmonella	485011.6292
+4.16_310.1167	gamma glutamyltyrosine	Tyrosine	"dipeptide, product of protein catabolism"	HMDB0011741	309.1094342	1	4.1628	2	1.51E-07	Salmonella	192929.8499
+5.55_260.1371	L-gamma-glutamyl-L-isoleucine	Amino Acids	"dipeptide, product of protein catabolism"	HMDB0011170	259.1298573	1	5.54515	2	4.79E-13	Salmonella	963483.5119
+4.67_227.1035	Hydroxyprolyl-Proline	Amino Acids	"dipeptide, product of protein catabolism"	HMDB0028871	227.103512	1	4.665733333	12	4.13E-11	Control	38300.16206
+10.01_425.1829	"11,13-Dihydrotaraxinic acid glucosyl ester"	Other	 	HMDB0035867	425.1829408	1	10.00841667	13	0.000369123	Control	107715.6698
+0.77_267.0721	Inosine	Other	"Remodeling microbiota with lactobacillus restore level of purine metabolite, inosine."	HMDB0000195 	267.0720805	1	0.7706	10	1.43E-13	Salmonella	124596.764
+3.43_128.0354	N-acetylserine	Amino Acids	 	HMDB0002931	128.0354086	1	3.426033333	17	1.43E-08	Salmonella	70254.85949
+4.82_144.0666	1-isothiocyanato-7-(methylthio)heptane	Other	 	HMDB0038440 	144.0666112	1	4.816433333	17	4.14E-07	Salmonella	156707.9441
+18.05_941.5116	"PIP(18:01/18:2(9Z,12Z))"	Phospholipids	Lipids belongs to glycerophosphoinositol phosphates	74380455	941.5115905	1	18.05461667	21	2.15E-13	Control	3086013.461
+0.62_154.0621	L-Histidine	Amino Acids	amino acid	HMDB0000177	154.0621045	1	0.62355	3	3.92E-05	Salmonella	139400.7215
+5.55_130.0873	Leucine	Amino Acids	amino acid	HMDB0000687 	130.087269	1	5.54515	19	5.31E-09	Salmonella	23442.19856
+0.94_59.0138	Acetic acid	SCFAs	Short-chain aftty acid	HMDB0000042	59.01381851	1	0.941683333	5	2.64E-07	Control	230061.7909
+0.71_175.0727	Alanyl-Serine	Amino Acids	"Dipeptide, product of protein catabolism"	HMDB0028696	175.0727354	1	0.713633333	4	1.56E-07	Control	44548.59518
+0.71_165.0405	Arabinonic acid	Sugar/Carbohydrate	"Sugar acid, Known fecal metabolite"	HMDB0000539	165.0404863	1	0.713633333	10	7.07E-05	Salmonella	448335.6063
+4.35_225.0517	Uridine	Other	gastrointestinal metabolite	HMDB0000296	225.0516878	1	4.348283333	9	3.99E-06	Salmonella	30304.00862
+10.16_361.1497	Prenyl arabinosyl-glucoside	Fatty Acids	 	HMDB0041360	361.1497062	1	10.15631667	4	1.27E-07	Salmonella	92754.38409
+5.45_284.1251	N5-Acetyl-N2-gamma-L-glutamyl-L-ornithine	Amino Acids	dipeptide	HMDB0039423	284.1251252	1	5.446733333	3	3.42E-08	Salmonella	5119.242533
+4.26_483.1716	Thymidine	Other	pyrimidine nucleoside	HMDB0000273	483.1715592	1	4.261416667	4	1.28E-09	Control	18896.96988
+8.00_387.2249	Tetraethylene glycol	Other	 	HMDB0094708 	387.2248628	1	7.995	1	3.50E-08	Control	406599.9903
+0.74_264.0721	Guanosine	Other	purine nucleoside	HMDB0000133	264.0721327	1	0.74295	2	1.33E-05	Control	65516.37
+3.38_245.1143	L-gamma-glutamyl-L-valine	Amino Acids	dipeptide	HMDB0011172	245.1142615	1	3.382016667	7	1.39E-06	Salmonella	387895.1027
+20.61_392.2926	Isoursodeoxycholic acid	Bile Acids	"Secondary bile acid, produced by gut intestinal microbiota"	HMDB0000686 	391.2853444	1	20.61276667	68	2.02E-05	Control	1351658.72
+0.66_124.0074	Taurine	Amino Acids	major constituent of bile 	HMDB0000251	124.0074477	1	0.656916667	2	0.001885726	Control	606751.4534
+0.98_173.0091	Aconitic acid	Other	"involved in many metabolic pathway, biosynthesized from citric acid"	HMDB0000072 	173.0090608	1	0.978833333	13	1.85E-09	Salmonella	87847.3228
+12.04_826.4671	"PS(18:4(6Z,9Z,12Z,15Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)))"	Phospholipids	"phosphatidylserine, a phospholipid with a key role in cell cycle signaling,especially in apoptosis"	HMDB0112509	826.4671131	1	12.03815	5	5.69E-06	Control	22752.74503
+13.67_328.1186	N-trans-Feruloyloctopamine	Other	 	HMDB0032805	328.1186412	1	13.67358333	1	1.60E-09	Control	5665.891508
+10.71_593.1870	Didymin	Flavonoids	flavonoid-7-O-glycoside	HMDB0029482	593.1870253	1	10.70566667	11	1.48E-05	Salmonella	19689.0007
+12.94_285.0404	Kaempferol 	Flavonoids	"Flavonoid, High level of Kaempferol in gut regulates normal microbiota"		285.0404483	1	12.93901667	36	4.29E-05	Control	29316.80358
+1.46_118.0267	Succinic acid	Other	"Succinate is a metabolic end-product of gut bacteria, but it has been classically overlooked and has only been considered as a key intermediate in microbial propionate synthesis"	14710842	117.019275	1	1.4615	10	4.24E-05	Salmonella	3694573.872
+1.09_89.0244	Lactic acid	Other	lactic acid is a metabolic end-product of gut bacteria	HMDB0000190 	89.02438368	1	1.0885	11	7.43E-07	Salmonella	2070480.235
+0.66_216.1352	gamma glutamyl-L-putrescine	Amino Acids	"both human and bacterial metabolite, involved in GABA metabolic pathway"	HMDB0012230	216.135211	1	0.656916667	4	6.81E-13	Control	19660.72374
+4.01_386.1204	Pyroglutamic acid	Amino Acids	 	HMDB0000267	386.1204477	1	4.01005	8	7.22E-07	Salmonella	57084.16729
+10.78_378.0288	6-Thioguanosine monophosphate	Other	Purine ribonucleotide	HMDB0060415 	378.0287956	1	10.77665	2	5.16E-08	Salmonella	9607.553686
+10.34_523.2551	L-phenylalanyl-L-proline	Amino Acids	dipeptide	HMDB0011177 	523.2550929	1	10.34165	5	5.26E-08	Salmonella	10992.02101
+13.05_589.3031	D-Urobilinogen	Other	Formed in intestine by bacterial action on bilirubi ssociated with Salmonella-induced inflammation	HMDB0004158 	589.303136	1	13.04671667	5	1.88E-13	Control	277905.7816
+4.35_225.0879	Porphobilinogen	Other	Intermediate in biosynthesis of porphyrins	HMDB0000245 	225.0878749	1	4.348283333	7	5.18E-06	Salmonella	91247.01794
+9.28_917.4370	Naematolone	Prenols	 	HMDB0035781	917.4369843	1	9.27565	4	6.50E-07	Salmonella	36528.09238
+9.24_527.0495	Quercetine 3-rhamnoside-3'-sulfate	Flavonoids	 		527.0494724	1	9.239516667	11	5.26E-08	Salmonella	13134.15658
+8.37_622.1564	Petunidine 3-gentiobioside	Flavonoids	 		622.1563704	1	8.36805	6	5.57E-06	Salmonella	10170.99987
+0.77_439.0816	"9,10-dibromo-stearic acid"	Fatty Acids	 	135635975	439.081615	1	0.7706	1	3.14E-08	Control	12549.30402
+9.03_537.1964	Citrusin A	Other	 	HMDB0039230	537.1963899	1	9.03155	7	3.04E-09	Salmonella	9297.450193
+0.84_539.1380	Phenylglucuronide	Sugar/Carbohydrate	 	HMDB0059806 	539.1380146	1	0.837816667	2	6.60E-08	Salmonella	245524.7164
+13.05_591.3183	Mesobilirubinogen	Other	urobilinogen can be reduced to form mesobilirubinogen	HMDB0001898 	591.3182731	1	13.04671667	5	1.43E-11	Control	276105.0647
+11.38_385.1861	Corchoionol C 9-glucoside	Fatty Acids	 	HMDB0029772	385.1861344	1	11.37593333	6	0.003049037	Salmonella	32802.77133
+6.99_515.0866	"3,5-Dihydroxy-3',4'-dimethoxy-6,7-methylenedioxy flavone 3-glucuronide"	Flavonoids	 	HMDB0038266	515.086617	1	6.991666667	14	5.65E-08	Salmonella	17789.43237
+8.55_335.1252	Semilepidinoside A	Sugar/Carbohydrate	 	HMDB0033107	335.1251863	1	8.54985	1	6.95E-07	Salmonella	6395.831696
+13.33_79.9573	Hydrogen sulfide	Other	 	HMDB0003276	79.95729902	1	13.33246667	1	3.20E-09	Control	38407.74178
+5.55_129.0556	Mevalonic acid	Fatty Acids	 	HMDB0000227	129.0555724	1	5.54515	31	2.22E-05	Control	195061.3436
+14.23_911.4516	"1-(5Z,8Z,11Z,14Z, 17Z-eicosapentaenoyl)-glycero-3-phosphate"	Other	 	HMDB0062308	911.4516326	1	14.22536667	3	7.32E-06	Control	13432.66716
+0.74_391.1012	Garcimangosone D	Sugar/Carbohydrate	 	HMDB0038066	391.1012282	1	0.74295	1	2.17E-09	Salmonella	132952.529
+8.70_837.3997	Licoricesaponin G2	Prenols	 	HMDB0039318	837.3997219	1	8.7016	1	6.31E-05	Salmonella	15336.98106
+3.77_827.2680	Amylopectin	Sugar/Carbohydrate	polysaccharide	HMDB0003255 	827.2680391	1	3.766933333	8	5.44E-08	Salmonella	19574.15912
+0.90_191.0195	"D-Glucano 1,4-lactone"	Other	 	HMDB0243497	191.0194549	1	0.899083333	14	3.81E-06	Salmonella	275985.1823
+0.68_127.0518	L-glutamine	Amino Acids	amino acid	HMDB0003423 	127.0517553	1	0.6832	11	0.000602985	Salmonella	10502.83838
+0.74_157.0365	Allatonin	Other	Human and bacterial metabolite	HMDB0000462	157.0364898	1	0.74295	2	5.10E-11	Salmonella	27904.44809
+1.01_145.0142	Oxoglutaric acid	Other	metabolite in Krebs cycle	HMDB0000208 	145.0141776	1	1.013266667	10	3.77E-09	Control	427544.9555

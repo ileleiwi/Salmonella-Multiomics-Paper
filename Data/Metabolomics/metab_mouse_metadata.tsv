@@ -1,0 +1,15 @@
+sample_id	Round	Cage	Mouse	Day	treatment	diet	mouse_id
+13-(12)-S-F-MC	3	NA	13	12	salmonella	chow	3_13
+15-(12)-S-F-ME	3	NA	15	12	salmonella	chow	3_15
+16-(12)-S-F-MF	3	NA	16	12	salmonella	chow	3_16
+20-(12)-S-F-MJ	3	NA	20	12	salmonella	chow	3_20
+27-(12)-S-F-MQ	3	NA	27	12	salmonella	chow	3_27
+28-(12)-S-F-MR	3	NA	28	12	salmonella	chow	3_28
+32-(12)-S-F-MV	3	NA	32	12	salmonella	chow	3_32
+44-(12)-C-F-NH	3	NA	44	12	control	chow	3_44
+45-(12)-C-F-NI	3	NA	45	12	control	chow	3_45
+46-(12)-C-F-NJ	3	NA	46	12	control	chow	3_46
+47-(12)-C-F-NK	3	NA	47	12	control	chow	3_47
+48-(12)-C-F-NL	3	NA	48	12	control	chow	3_48
+49-(12)-C-F-NM	3	NA	49	12	control	chow	3_49
+50-(12)-C-F-NN	3	NA	50	12	control	chow	3_50
